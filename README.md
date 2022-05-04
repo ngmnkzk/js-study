@@ -1,2 +1,2 @@
-# js-study
+# react-study
 Created with CodeSandbox
